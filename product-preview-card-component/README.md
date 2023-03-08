@@ -1,6 +1,13 @@
 # Frontend Mentor - Product preview card component
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+# deploy-link
+https://tukeshwari-product-preview-card-component.netlify.app
+# desktop-view
+![active-states](https://user-images.githubusercontent.com/102142382/223824687-866133b8-1286-46ea-9c91-516d839eb1b8.jpg)
+
+# mobile-view
+![mobile-design](https://user-images.githubusercontent.com/102142382/223824789-826427c9-2a7b-48c9-b11b-ad88047a0869.jpg)
+
 
 ## Welcome! 👋
 
